@@ -15,12 +15,7 @@ algorithmic thinking, and preparation for technical interviews.
 - Linked Lists *(add when available)*
 - More topics as I progress through the sheet
 
-## Repository Structure
 
-DSA-Problem-Solving/
-├── Arrays/
-├── BinarySearch/
-└── README.md
 
 ## Languages and Concepts
 
